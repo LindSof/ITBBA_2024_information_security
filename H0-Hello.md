@@ -18,4 +18,4 @@ Good sweet thing yippee
 
 ## Code box
 
-    $ Yippeee this is a boxxx
+     Yippeee this is a boxxx
