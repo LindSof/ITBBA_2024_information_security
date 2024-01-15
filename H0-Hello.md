@@ -6,7 +6,12 @@ this is me typing something because it's the assignment lol
 
 ### Sushi
 
-Sushi is great food, I love sushi
+Sushi is great food, I love sushi. My favorite sushis are:
+
+- Salmon and avocado
+- Shrimp
+- Strawberry
+- surimi and cucumber
 
 ### Chicken nuggets
 
