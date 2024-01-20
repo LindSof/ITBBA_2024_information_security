@@ -8,6 +8,8 @@ Traditional approaches that focus on vulnerabilities are considered insufficient
 
 By considering the threat aspect, defenders can turn the continued presence of APTs into a liability. As attackers continue to attack, defenders can learn from the ways the attackers attack and thus defend better. Basically, they can make the persistence of APTs a disadvantage for the attackers, reducing the likelihood of the attackers' success in their ongoing intrusion attempts.
 
+Sof's comment: The paper itself was quite difficlt to read to me, but I found the core point in it very interesting.
+
 ## Darknet stories ep 133 summary
 The episode "133: I'm the real Connor" Is an interview with a man named Connor who is an IT engineer. One day when he is at work he gets an email that says that his identity has been stolen. 
 As he reads the email he finds out it's from someone who was hired to pretend to be him and go to a job interview.
@@ -17,3 +19,5 @@ As he reads the email he finds out it's from someone who was hired to pretend to
 He finds out that everyone who's been in the Slack chats is fake. Theres a Website called PND Design but the whole company makes no sense. 
 
 Connor publishes this story on Reddit and a lot of people want to help him research further. Some people say they've had similar experiences. 
+
+Sof's comment: The task was enjoyable and cool. I don't know what I would have done in a similar cenario, but maybe trying to "apply" to the company that hired the fake Connor and seeing what excatly they were doing would be interesting. The points made in the end sound like the most plausible reasons for why someone would do this.
